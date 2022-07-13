@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Godwin Daniel Olele</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A certified frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godwindaniel10&label=Profile%20views&color=0e75b6&style=flat" alt="godwindaniel10" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **ReactJs in depth**
 
-- 💬 Ask me about **Html, CSS, JavaScript, React, Tailwind**
+- 💬 Ask me about **React, NextJs, TypeScript Tailwind, Html, CSS, JavaScript, Firebase**
 
 - 📫 How to reach me **godwinolele10@gmail.com**
 
-- ⚡ Fun fact **I am fun to hangout with**
+- ⚡ Fun fact **I love networking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
