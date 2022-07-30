@@ -5,10 +5,10 @@ Frontend Web Developer
 ----------------------
 
 * 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [godwinolele10@gmail.com](mailto:godwinolele10@gmail.com)
 * 🧠  I’m interested in creating simple solutions to every day problems
 * 🤝  I’m looking to collaborate on impactful projects
 🌱 I work with JavaScript, React, NextJs, TypeScript, Tailwind CSS, Node
+✉️  You can contact me at [godwinolele10@gmail.com](mailto:godwinolele10@gmail.com)
 
 
 
