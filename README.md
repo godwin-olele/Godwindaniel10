@@ -6,8 +6,11 @@ Frontend Web Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [godwinolele10@gmail.com](mailto:godwinolele10@gmail.com)
-* 🧠  I'm learning NextJs
-* 🤝  I'm open to collaborating on Interesting Projects
+* 🧠  I’m interested in creating simple solutions to every day problems
+* 🤝  I’m looking to collaborate on impactful projects
+🌱 I work with JavaScript, React, NextJs, TypeScript, Tailwind CSS, Node
+
+
 
 <a href="https://www.twitter.com/CodeBase__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/CodeBase__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
