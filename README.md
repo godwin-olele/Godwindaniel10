@@ -1,13 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My names are Godwin Daniel Olele
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Godwin Daniel Olele
 ====================================================================================================================================
 
 Frontend Web Developer
 ----------------------
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in Lagos,Nigeria
 * 🧠  I’m interested in creating simple solutions to every day problems
 * 🤝  I’m looking to collaborate on impactful projects
-* 🌱 I work with JavaScript, React, NextJs, TypeScript, Tailwind CSS, Node
+* 🌱 I work with JavaScript, React, NextJs, TypeScript, Tailwind CSS, Node and more...
 * ✉️  You can contact me at [godwinolele10@gmail.com](mailto:godwinolele10@gmail.com)
 
 
